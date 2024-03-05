@@ -4,4 +4,4 @@ Upload your financial article and this AI Model will assign the category accordi
 
 ### Data Set: Kaggle
 ### algorithm: Random Forest Classification
-### Frameworks: Scikit-learn
+### Frameworks: Scikit-learn, Gravity AI
