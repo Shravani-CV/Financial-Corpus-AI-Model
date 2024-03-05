@@ -1,7 +1,6 @@
 # Financial-Corpus-AI-Model
-Financial Corpus AI Model is a Multi-Source Entity-Level AI Model which Categorize the financial Article dataset.
-Upload your financial article and this AI Model will assign the category according to the closest match.
-
+Introducing Financial Corpus AI, This is a model which predicts and classifies the larger Dataset into a table of simplified dataset. 
+Financial Corpus AI Model is a Multi-Source Entity-Level AI Model which Categorize the financial Article dataset. Upload your financial article(can be Large amount of dataset) and this AI Model will assign the category according to the closest match by using Random Forest Classification algorithm.
 ## Data Set: Kaggle
 ## algorithm: Random Forest Classification
 ## Frameworks: Scikit-learn, Gravity AI
